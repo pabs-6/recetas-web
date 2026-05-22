@@ -1,0 +1,2 @@
+echo "RECETA: Tarta de manzana
+Ingredientes: masa, manzanas, azúcar" > index.txt
